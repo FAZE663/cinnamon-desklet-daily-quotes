@@ -1,0 +1,8 @@
+.quote-label {
+    font-size: 14px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(0,0,0,0.6);
+    border-radius: 8px;
+}

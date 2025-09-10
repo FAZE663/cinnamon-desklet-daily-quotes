@@ -1,0 +1,8 @@
+{
+	"uuid":"daily-quotes@faze",
+	"name":"Daily Quotes",
+	"description":"Shows a new inspirational or fun quote every day",
+	"version": 1,
+ 	"author": "Faze",
+ 	"comments": "Fetches quotes from an API or local file and updates daily"
+}
