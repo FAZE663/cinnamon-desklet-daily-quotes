@@ -11,5 +11,5 @@ A Cinnamon desklet that shows a new inspirational (or fun) quote every day.
 ## 📦 Installation
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/mint-daily-quotes-desklet.git
+   git clone https://github.com/FAZE663/mint-daily-quotes-desklet.git
 
